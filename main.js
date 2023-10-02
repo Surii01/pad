@@ -40,12 +40,6 @@ form.addEventListener("submit", function (e) {
 🔹*CBU:* *${inputCBU}*
 🔹*ALIAS:* *${inputAlias}*
 
-‼️ Para *cargas menores a $3.000* se debe abonar un recargo de $30 
-*Ejemplo: $1.000 = $1.030*
-
-Si no envían los $30 se les descontará del total de su carga.
-*Ejemplo: $1.000 = $970* ‼️
-
 ENVIAR:
 📤COMPROBANTE
 📤USUARIO de la plataforma
